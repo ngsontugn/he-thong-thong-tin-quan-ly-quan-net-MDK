@@ -1,8 +1,8 @@
 # 🎮 Dự án: Xây dựng phần mềm quản lý tại quán net MDK
 
 > **Môn học:** Kỹ nghệ phần mềm  
-> **Thời gian thực hiện:** 23/09/2024 – 29/10/2024  
-> **Liên hệ:** ngsontugn@gmail.com | [LinkedIn](https://linkedin.com/in/ngsontugn)
+> **Thời gian thực hiện:** 09/2024 – 11/2024  
+> **Liên hệ:** sontungnguyen894@gmail.com | [LinkedIn](https://linkedin.com/in/ngsontugn)
 
 ---
 

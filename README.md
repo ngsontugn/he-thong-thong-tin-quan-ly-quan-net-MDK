@@ -2,7 +2,6 @@
 
 > **Môn học:** Kỹ nghệ phần mềm  
 > **Thời gian thực hiện:** 23/09/2024 – 29/10/2024  
-> **Sinh viên thực hiện:** Nhóm 3 – Đại học Kinh tế Quốc Dân  
 > **Liên hệ:** ngsontugn@gmail.com | [LinkedIn](https://linkedin.com/in/ngsontugn)
 
 ---
